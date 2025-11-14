@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+reports/*.json
+npm-install.log
+playwright-deps.log
+dev.log
+.vscode/
+.DS_Store
+
+# Playwright artifacts
+playwright-report/
+blob-report/
+trace.zip
+test-results/
